@@ -5,10 +5,14 @@ This program allows user to create regex tree's using valid REGEX inputs.
   ## PREREQ:
 1. Valid Symbols:
 
-	• 0,
+	• 0
+
 	• 1
+
 	• 2
+
 	• e  
+
 		---> If any of these are in the input, a regex tree MAY be formed. 
 
 2. Possible Pathway/Tree:
