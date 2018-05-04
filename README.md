@@ -30,9 +30,9 @@ This program allows user to create regex tree's using valid REGEX inputs.
 ##
 # Valid Examples of Regex Tree 
 
-1. '(1|0)'	The corresponding Object is: BarTree(Leaf('1'), Leaf('2'))
+1. '(1|0)'	  The corresponding Object in memory: BarTree(Leaf('1'), Leaf('2'))
 
-2. '1****'	The Object type: StarTree(StarTree(StarTree(StarTree(Leaf('1')))))
+2. '1****'	  The Object in memory: StarTree(StarTree(StarTree(StarTree(Leaf('1')))))
 
  ##
 	
