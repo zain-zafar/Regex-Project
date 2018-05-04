@@ -35,6 +35,7 @@ This program allows user to create regex tree's using valid REGEX inputs.
 2. '1****'	  The Object in memory: StarTree(StarTree(StarTree(StarTree(Leaf('1')))))
 
  ##
-	
-![README_Logo](LOGO.png "Zain's logo")
+
+<html>
 <img align="right" src="LOGO.png">
+</html>
