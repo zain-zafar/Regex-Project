@@ -36,4 +36,4 @@ This program allows user to create regex tree's using valid REGEX inputs.
 
  ##
 	
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![TEST](Test_icon.png "Title")
