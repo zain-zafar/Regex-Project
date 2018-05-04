@@ -36,4 +36,4 @@ This program allows user to create regex tree's using valid REGEX inputs.
 
  ##
 	
-![TEST](for_readme.png "Title")
+![README_Finisher](for_readme.png "Zain's logo")
