@@ -28,5 +28,10 @@ This program allows user to create regex tree's using valid REGEX inputs.
 3. All the REGEX's MUST be contained in circular brackets.
 
 ##
-# GGG ##
+# Valid Examples 
+
+1. '(1|0)'
+
+2. '1****'
+ ##
 	
