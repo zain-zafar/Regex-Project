@@ -37,4 +37,4 @@ This program allows user to create regex tree's using valid REGEX inputs.
  ##
 	
 ![README_Logo](LOGO.png "Zain's logo")
-<img align="right" width="45%" height="45%" src="LOGO.png">
+<img align="right" src="LOGO.png">
