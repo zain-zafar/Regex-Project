@@ -2,4 +2,6 @@
 
 This program allows user to create regex tree's using valid REGEX inputs. 
 
-  ## PREREQ: SYMBOLS {star, fadaa} ###
+  ## PREREQ:
+1. Valid Symbols:
+	star, addada ###
