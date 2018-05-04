@@ -36,7 +36,7 @@ This program allows user to create regex tree's using valid REGEX inputs.
 
  ##
 	
-```html
+html
 <h2>Example of code</h2>
 
 <pre>
@@ -49,4 +49,3 @@ This program allows user to create regex tree's using valid REGEX inputs.
         </div>
     </div>
 </pre>
-```
