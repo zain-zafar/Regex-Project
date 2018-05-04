@@ -1,5 +1,5 @@
 # Regex Tree Program 
 
-This program allows user to create regex trees using REGEX input. 
+This program allows user to create regex tree's using valid REGEX inputs. 
 
-## PREREQ: dwaadaaad ###
+## PREREQ: SYMBOLS {star, fadaa} ###
