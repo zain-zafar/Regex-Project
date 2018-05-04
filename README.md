@@ -16,8 +16,11 @@ This program allows user to create regex tree's using valid REGEX inputs.
 		If any of these are in the input, a regex tree MAY be formed. 
 
 2. Possible Pathway/Tree:
+
 	•|
+
 	• *
+
 	• .  
 
 		These indicate which tree will be created and one of these expressions MUST be between 2 symbols/star. 
