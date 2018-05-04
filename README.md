@@ -25,5 +25,5 @@ This program allows user to create regex tree's using valid REGEX inputs.
 
 		These indicate which tree will be created and 1 of these expressions MUST be between 2 symbols/star. 
 
-3. All the REGEX's MUST be contained in circular brackets. 
+3. All the REGEX's MUST be contained in circular brackets.### GGGG ####
 	
